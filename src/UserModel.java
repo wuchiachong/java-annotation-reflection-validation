@@ -1,9 +1,7 @@
 import java.io.Serializable;
 
 public class UserModel implements Serializable {
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = -4469704917708123018L;
 
 	private long id = 0;
